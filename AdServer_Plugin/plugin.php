@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: AdServer Plugin
-Plugin URI: 
-Description: 
+Plugin URI: https://github.com/Kytoh/YourlsPlugins/tree/master/AdServer_Plugin
+Description: Ad System to set a landing page before send to the final page
 Version: 1.0
 Author: Kyto
 Author URI: http://www.kevincala.com
